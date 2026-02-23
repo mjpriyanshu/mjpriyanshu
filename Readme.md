@@ -72,7 +72,7 @@ I combine solid backend engineering with thoughtful **UI/UX design**, aiming to 
 <br/>
 
 ### 🌐 Frontend Development  
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwindnextjs,angular,flutter" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,angular,flutter" />
 
 <br/>
 
