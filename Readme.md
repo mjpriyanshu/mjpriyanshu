@@ -5,9 +5,9 @@
 
 <!-- 👋 Typing Intro Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Priyanshu+Kumar;B.Tech+CSE+%7C+Full-Stack+Dev;Exploring+UI/UX,+Cloud+%26+DevOps,+Android dev;I+Love+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Priyanshu+Kumar;B.Tech+CSE+%7C+Full-Stack+Dev;Exploring+UI/UX,+Cloud+%26+DevOps;I+Love+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" />
 </div>
----
+
 
 ## 🚀 About Me
 
