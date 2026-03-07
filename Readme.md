@@ -30,18 +30,34 @@ I combine solid backend engineering with thoughtful **UI/UX design**, aiming to 
 ---
 
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/mjpriyanshu/Learnit">
     <img src="https://img.shields.io/badge/🧠_Learnit-AI_Learning_Platform-6c5ce7?style=for-the-badge" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🔒_Private-Coming_Soon-2d3436?style=for-the-badge&logo=github" />
+  <a href="https://github.com/mjpriyanshu/Learnit">
+    <img src="https://img.shields.io/badge/📂_Repository-View_Code-000000?style=for-the-badge&logo=github" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🌐_Live-Deployment_Pending-0984e3?style=for-the-badge" />
+ <a href="#">
+    <img src="https://img.shields.io/badge/🌐_Live-Not_Deployed-e74c3c?style=for-the-badge" />
   </a>
 </p>
 
 > 🚀 AI-powered structured learning ecosystem combining Gemini intelligence, curated YouTube integration, quizzes, chatbot support, ranking system, and advanced progress tracking dashboards.
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/mjpriyanshu/Heylo">
+    <img src="https://img.shields.io/badge/💬_Heylo-Real_Time_Chat_App-00b894?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/mjpriyanshu/Heylo">
+    <img src="https://img.shields.io/badge/📂_Repository-View_Code-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://heylo-chat.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Live-Deployed-0984e3?style=for-the-badge" />
+  </a>
+</p>
+
+> 😎 Real-time messaging platform built with the MERN stack, featuring Socket.io powered instant communication, secure JWT authentication, password recovery via Nodemailer, Cloudinary-based media sharing, and live presence tracking for seamless chat experience.
 
 <br>
 
@@ -59,7 +75,9 @@ I combine solid backend engineering with thoughtful **UI/UX design**, aiming to 
 
 > 🌍 Role-based eco-commerce platform with carbon impact visibility, AI purchase summaries, greener alternatives, and structured admin moderation.
 
-<!-- ***********************************************************************************-->
+
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -111,12 +129,8 @@ I combine solid backend engineering with thoughtful **UI/UX design**, aiming to 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 
+
 </div>
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mjpriyanshu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
