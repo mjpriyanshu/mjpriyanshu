@@ -8,6 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Priyanshu+Kumar;B.Tech+CSE+%7C+Full-Stack+Dev;Exploring+UI/UX,+Cloud+%26+DevOps;I+Love+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" />
 </div>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rvncipher&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ## 🚀 About Me
 
@@ -170,9 +173,9 @@ I combine solid backend engineering with thoughtful **UI/UX design**, aiming to 
 
 <p align="center">
 
-<img src="https://github.com/mjpriyanshu/rvncipher/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+<img src="https://github.com/mjpriyanshu/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 
-<img src="https://github.com/mjpriyanshu/rvncipher/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+<img src="https://github.com/mjpriyanshu/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 
 </p>
 
