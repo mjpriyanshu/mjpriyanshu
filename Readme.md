@@ -173,9 +173,9 @@ I combine solid backend engineering with thoughtful **UI/UX design**, aiming to 
 
 <p align="center">
 
-<img src="https://github.com/mjpriyanshu/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/mjpriyanshu/mjpriyanshu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 
-<img src="https://github.com/mjpriyanshu/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+<img src="https://raw.githubusercontent.com/mjpriyanshu/mjpriyanshu/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 
 </p>
 
