@@ -85,43 +85,47 @@ I combine solid backend engineering with thoughtful **UI/UX design**, aiming to 
 ## 🛠️ Tech Stack
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
-### 🧠 Core Languages  
+### 🧠 Core Languages
 <img src="https://skillicons.dev/icons?i=cpp,java,javascript,dart" />
 
 <br/>
 
-### 🌐 Frontend Development  
+### 🌐 Frontend Development
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,angular,flutter" />
 
 <br/>
 
-### ⚙️ Backend Development  
+### ⚙️ Backend Development
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,hibernate"/>
 
-<br/>
+</td>
 
-### ☁️ Cloud & Deployment  
+<td width="50%" align="center">
+
+### ☁️ Cloud & Deployment
 <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,supabase" />
 
 <br/>
 
-### 🗄️ Databases  
+### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
 <br/>
 
-### 🎨 UI/UX & Design  
-<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+### 🧰 Tools & Design
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,photoshop" />
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-### 🧰 Tools & Productivity  
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
-
-</div>
-<br/>
-
-### 🚀 Extras & Supporting Tools  
+### 🚀 Extras & Supporting Tools
 
 <div align="center">
 
@@ -132,6 +136,7 @@ I combine solid backend engineering with thoughtful **UI/UX design**, aiming to 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 
+</div>
 
 </div>
 
