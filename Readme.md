@@ -134,6 +134,60 @@ I combine solid backend engineering with thoughtful **UI/UX design**, aiming to 
 
 ---
 
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mjpriyanshu&show_icons=true&theme=tokyonight#gh-dark-mode-only"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjpriyanshu&layout=compact&theme=tokyonight#gh-dark-mode-only"/>
+
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mjpriyanshu&theme=tokyonight"/>
+</p>
+
+
+---
+# Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mjpriyanshu&theme=tokyo-night"/>
+</p>
+
+
+# 3D Contribution Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjpriyanshu&theme=tokyonight"/>
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/mjpriyanshu/rvncipher/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+
+<img src="https://github.com/mjpriyanshu/rvncipher/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mjpriyanshu&theme=tokyonight&row=1&column=6"/>
+</p>
+
+
+
+---
+
 ## 🌍 Connect With Me
 
 <p align="center">
