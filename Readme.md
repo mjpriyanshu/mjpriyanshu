@@ -184,6 +184,7 @@ I combine solid backend engineering with thoughtful **UI/UX design**, aiming to 
 
 </p>
 
+<!--
 ---
 
 # GitHub Trophies
@@ -191,7 +192,7 @@ I combine solid backend engineering with thoughtful **UI/UX design**, aiming to 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mjpriyanshu&theme=tokyonight&row=1&column=6"/>
 </p>
-
+-->
 
 
 ---
